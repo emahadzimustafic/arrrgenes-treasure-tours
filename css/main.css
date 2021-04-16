@@ -60,7 +60,6 @@ nav a:hover {
   color: #522806;
   background-color: #fff;
   border-radius: 1em;
-
 }
 
 .banner {
@@ -93,7 +92,6 @@ nav a:hover {
 
 .banner a {
   display: inline-block;
-  background-color: transparent;
   padding: .5em 1.5em .6em;
   border: .3rem solid #bea59b;
   background-color: #fff;
