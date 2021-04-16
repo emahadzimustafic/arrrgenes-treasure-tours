@@ -56,6 +56,13 @@ body {
   text-decoration: none;
 }
 
+nav a:hover {
+  color: #522806;
+  background-color: #fff;
+  border-radius: 1em;
+
+}
+
 .banner {
   display: grid;
   grid-template-columns: 1fr;
@@ -89,8 +96,9 @@ body {
   background-color: transparent;
   padding: .5em 1.5em .6em;
   border: .3rem solid #bea59b;
+  background-color: #fff;
   border-radius: 1em;
-  color: #fff;
+  color: #522806;
   font-weight: bold;
   text-decoration: none;
 }
