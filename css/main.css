@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color: #522806;
+  background-color: #fff;
   font-family: "Libre Baskerville", serif;
 }
 
@@ -60,6 +60,10 @@ nav a:hover {
   color: #522806;
   background-color: #fff;
   border-radius: 1em;
+}
+
+section > img {
+  background-color: #522806;
 }
 
 .banner {
