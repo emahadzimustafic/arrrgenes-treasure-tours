@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color: #fff;
+  background-color: #522806;
   font-family: "Libre Baskerville", serif;
 }
 
@@ -101,6 +101,10 @@ nav a:hover {
   text-decoration: none;
 }
 
+article {
+  background-color: #fff;
+}
+
 .ship {
   padding: 2rem;
 }
@@ -140,6 +144,11 @@ nav a:hover {
   color: #522806;
   font-weight: bold;
   text-decoration: none;
+}
+
+.card a:hover {
+  background-color: #522806;
+  color: #fff;
 }
 
 .footer {
